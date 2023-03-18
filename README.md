@@ -5,8 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/01/f3/b101f3982d098eb5919cd9687d7648d3.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aegon-w&label=Profile%20views&color=0e75b6&style=flat" alt="aegon-w" /> 
-<script src="https://tryhackme.com/badge/1802357"></script></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aegon-w&label=Profile%20views&color=0e75b6&style=flat" alt="aegon-w" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aegon-w" alt="aegon-w" /></a> </p>
 
