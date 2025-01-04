@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/m-hammed-boukelalen-16a5b11b1/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="30" />
   </a>
+  <hr>
   <a href="https://profile.intra.42.fr/users/m-boukel" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Network" height="30" width="30" />
   </a>
