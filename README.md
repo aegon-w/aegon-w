@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boukelalen M'hammed</h1>
-<h3 align="center">A passionate software engineer and 42 student from Morocco</h3>
+<h3 align="center">A passionate software engineer and 42 student</h3>
 
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/aegon-w)
 
