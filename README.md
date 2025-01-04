@@ -5,14 +5,14 @@
 
 - 🎓 Student at [42 Network](https://www.42.fr/), honing my skills in software engineering and system development
 
-- 📫 How to reach me: **blabla@gmail.com**
+- 📫 How to reach me: **mhammedboukelalen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://42.fr/" target="blank">
+  <a href="[https://42.fr/](https://profile.intra.42.fr/users/m-boukel)" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Network" height="30" width="30" />
   </a>
 </p>
