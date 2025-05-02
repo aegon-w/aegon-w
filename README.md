@@ -7,6 +7,13 @@
 
 - 📫 How to reach me: **mhammedboukelalen13@gmail.com**
 
+
+## 📈 GitHub Stats
+![Aegon's GitHub stats](https://github-readme-stats.vercel.app/api?username=aegon-w&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegon-w&layout=compact&theme=radical)](https://github.com/aegon-w)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/m-hammed-boukelalen-16a5b11b1/" target="blank">
